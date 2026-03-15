@@ -2,6 +2,7 @@
 <p align="center">
   <img alt="Imagem de apresentação do Projeto Alura+" src="img/readmeap.png" width="100%">
 </p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
